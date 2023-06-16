@@ -1,0 +1,22 @@
+{
+  "name": "CAT5140",
+  "version": "1.0.0",
+  "description": "A library for driving the CAT5140 digital potentiometer.",
+  "keywords": "CAT5140, digital potentiometer, potentiometer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/hello-world.git"
+  },
+  "authors": [
+    {
+      "name": "Nick Steele",
+      "url": "https://github.com/nichlock"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "Wire": "*"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
